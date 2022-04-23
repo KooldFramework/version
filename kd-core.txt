@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"Beta testing has ended, this is the official stable release."}
+{"version":"1.0.1", "notes":"Voertuigen geupdate en in de core gezet"}
